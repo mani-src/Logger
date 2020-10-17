@@ -1,0 +1,5 @@
+C:\Apps\Tools\Logger\Logger\bin\Debug\Logger.dll
+C:\Apps\Tools\Logger\Logger\bin\Debug\Logger.pdb
+C:\Apps\Tools\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Apps\Tools\Logger\Logger\obj\Debug\Logger.dll
+C:\Apps\Tools\Logger\Logger\obj\Debug\Logger.pdb
